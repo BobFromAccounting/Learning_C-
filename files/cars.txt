@@ -1,0 +1,6 @@
+Make: Honda
+Model: Civic
+Year: 2006
+Colour: red
+Registration Number: 345RGT
+=========================
