@@ -1,0 +1,13 @@
+are|am
+am|are
+were|was
+was|were
+you|me
+me|you
+I|you
+your|my
+my|your
+I've|you've
+You've|I've
+I'm|you're
+you're|I'm

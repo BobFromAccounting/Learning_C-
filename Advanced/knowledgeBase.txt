@@ -1,0 +1,23 @@
+Hello|Hi, how are you?
+Hello|Hello there. What can I do for you?
+Hi|Hi there.
+Bye|Logging you out. Goodbye. >.<
+Good|I'm glad to hear that.
+How are you?|I am doing well, how are you?
+I will|You will do so. I believe in you!
+I will|Will you be able to do so?
+Yes|Are you sure?
+Yes|How can you be so sure?
+Yes|Well of course you are right.
+No|Now you are just being pessimistic.
+No|Never say never.
+No|You don't know much do you?
+Computer|Please call me Eliza.
+Computer|I prefer to be called: Eliza.
+Thank you|You are most welcome!
+Is that right|So far as I am aware, yes.
+Is that right|Of course. I am a computer, so I know everything!
+really|yes
+I don't know|Neither do I...
+Why not|Because...
+Seriously|Would I lie to you?
